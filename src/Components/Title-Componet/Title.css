@@ -1,0 +1,13 @@
+.title-container{
+    padding: 18rem 2rem 25rem 2rem;
+    background-image: url("./TitleBackground.jpg");
+    background-size: cover;
+    text-align: center;
+    font-family: 'Raleway';
+}
+.title-container > h1 {
+    font-size: 1.8rem;
+}
+.title-container > h2{
+    font-size: 1.5rem;
+}

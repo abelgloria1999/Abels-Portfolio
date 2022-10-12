@@ -1,0 +1,10 @@
+.footer-container{
+    display: flex;
+    background-color: #06283D;
+    padding: .1rem;
+    justify-content: center;
+}
+.footer-link > a > img {
+    width: 2.5rem;
+    margin: .2rem;
+}

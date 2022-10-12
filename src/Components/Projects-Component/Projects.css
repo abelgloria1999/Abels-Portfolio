@@ -1,0 +1,45 @@
+.projects-container{
+    padding: 6rem 5rem 6.5rem 5rem;
+    text-align: center;
+    background-color: rgb(176, 195, 195);
+}
+.projects-container > h2{
+    margin-bottom: 5rem;
+}
+.project-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(162, 179, 179);
+    border-radius: 1rem;
+    box-shadow: #495359 .1rem .1rem 1rem .1rem;
+
+}
+.project-card{
+    background-color: rgb(185, 200, 200);
+    padding: 3rem 3rem 2rem 3rem;
+    margin: 2rem 1rem 2rem 1rem;
+    border-radius: 1rem;
+    box-shadow: #3a4851 .1rem .1rem 1rem .1rem;
+}
+.project-card > a > h3{
+    color: purple;
+}
+.project-card > a{
+    margin-bottom: 3rem;
+    text-decoration: none;
+    transition: opacity .5s;
+}
+.project-card > img{
+    margin-bottom: 2rem;
+    width: 5rem;
+}
+
+@media screen and (min-width: 600px) {
+    .project-card > a > h3:hover{
+        opacity: .8;
+    }
+    .project-card > a > h3:active{
+        opacity: .5;
+    }
+}
