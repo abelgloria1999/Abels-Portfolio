@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Abels-Portfolio/static/css/main.d20d1389.css",
+    "main.js": "/Abels-Portfolio/static/js/main.f5f7919e.js",
+    "static/js/787.267fb24e.chunk.js": "/Abels-Portfolio/static/js/787.267fb24e.chunk.js",
+    "static/media/TitleBackground.jpg": "/Abels-Portfolio/static/media/TitleBackground.0ce02ede09a3230f1ddf.jpg",
+    "index.html": "/Abels-Portfolio/index.html",
+    "main.d20d1389.css.map": "/Abels-Portfolio/static/css/main.d20d1389.css.map",
+    "main.f5f7919e.js.map": "/Abels-Portfolio/static/js/main.f5f7919e.js.map",
+    "787.267fb24e.chunk.js.map": "/Abels-Portfolio/static/js/787.267fb24e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20d1389.css",
+    "static/js/main.f5f7919e.js"
+  ]
+}
